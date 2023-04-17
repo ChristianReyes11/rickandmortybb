@@ -7,7 +7,7 @@ body {
 }
 
 .title {
-  color: #738f93;
+  color: #03d0eb;
   font-size: 40px;
   font-family: fantasy, sans-serif;
   margin: 0;
@@ -19,7 +19,7 @@ body {
 }
 
 .btn-search {
-  background-color: #1a214d;
+  background-color: #000000;
   color: #ffffff;
   border-radius: 10px;
   box-shadow: 0 4px 12px black;
@@ -96,7 +96,7 @@ body {
 }
 
 .character-container .alive {
-  background: rgb(85, 204, 68);
+  background: rgba(255, 0, 0, 0.642);
 }
 
 .character-container div:first-child {
@@ -151,8 +151,9 @@ body {
   border-radius: 10px;
   font-size: 18px;
   margin-top: -50px;
-  color:#1f211e;
-  box-shadow: 0 4px 25px rgb(0, 0, 0);
+  color:#a71313;
+  box-shadow: 0 4px 25px rgb(191, 184, 184);
+  margin-left: 0%;
 }
 
 #info-img{
