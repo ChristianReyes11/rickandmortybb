@@ -1,5 +1,5 @@
 import imageRickMorty from "./img/rick-morty.png";
-import credencial from "./img/Uv Anverso.png";
+import credencial from "./img/Uv Anverso.jpg";
 
 import "./App.css";
 import { useState } from "react";
