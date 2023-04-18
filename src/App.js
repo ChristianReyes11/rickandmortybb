@@ -20,8 +20,7 @@ function App() {
       <header className="App-header">
         <h1>Rick & Morty </h1>
         <h1 className="title">by ChristianReyes</h1>
-        <p className="info">Coloca el Mouse Sobre este texto!!</p>
-        <div className="infoContainer">
+        <div >
           Christian Eduardo Amaro Reyes<br/>
           zs19004895@estudiantes.uv.mx <br/>
           <img src={credencial} alt="credencial" id="info-img"/>
