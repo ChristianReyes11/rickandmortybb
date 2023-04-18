@@ -142,7 +142,7 @@ body {
 .infoContainer{
   display: none;
 }
-/*
+/*commentario
 .info:hover + .infoContainer{
   display: block;
   position:fixed;
@@ -154,6 +154,7 @@ body {
   color:#a71313;
   box-shadow: 0 4px 25px rgb(191, 184, 184);
   margin-left: 0%;
+
 }
 */
 #info-img{
